@@ -1,0 +1,4 @@
+fredapi == 0.5.2
+config == 0.5.1
+kaleido == 0.2.1
+python-dotenv==1.0.1 
